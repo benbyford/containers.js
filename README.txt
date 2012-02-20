@@ -25,7 +25,7 @@ Please submit your 'container' images there.
 
 USEAGE:
 
-As a bookmarklet (file: containers_bookmarklet.js) - added to bookmarks and click on any web page. Also readable code enclosed. 
+As a bookmarklet (file: containers_bookmarklet.js) - add javascript to bookmarks as a url and click on any web page. Also readable code enclosed. 
 
 
 
